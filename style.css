@@ -53,10 +53,6 @@ section {
     border-radius: 25px;
 }
 
-.contents {
-    padding: 0 1.5rem;
-}
-
 .prep-time {
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -119,6 +115,10 @@ td > b {
     .container {
         border-radius: 0;
         padding: 0;
+    }
+
+    .contents {
+        padding: 0 1.5rem;
     }
 
     img {
